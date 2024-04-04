@@ -1,5 +1,6 @@
 
-<p>Welcome to my page! </br> I'm Benedict. I am a Full Stack Engineer with 6+ years of experience in developing web applications and cloud infrastructures. </br> </p>
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+<p>Welcome to my page! </br></br> I'm Benedict. I am a Full Stack Engineer with 6+ years of experience in developing web applications and cloud infrastructures. </br> </p>
 <p>
   - ✈️ &nbsp;Digital Nomad
   </br>
