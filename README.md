@@ -6,7 +6,7 @@
   </br>
   - 🌊 &nbsp;Travel Enthusiast
   </br>
-  - 👨‍💻 &nbsp;I’m currently learning Python, Go
+  - 👨‍💻 &nbsp;I’m currently learning Python, Advanced AWS
 </p>
 <h3>Things I code with</h3>
 <p>
