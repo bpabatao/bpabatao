@@ -5,8 +5,6 @@
   - ✈️ &nbsp;Digital Nomad
   </br>
   - 🌊 &nbsp;Travel Enthusiast
-  </br>
-  - 👨‍💻 &nbsp;I’m currently learning Python, Prompt Engineering, LLM, and Advanced AWS
 </p>
 <h3>Things I code with</h3>
 <p>
